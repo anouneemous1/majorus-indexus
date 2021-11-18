@@ -12,7 +12,6 @@ from posting import Posting
 from utils import build_posting_str
 from index_merger import merge_indexes
 
-#path: /home/lopes/Datasets/IR/DEV/
 #module load python/3.7.4
 
 #Docid -> URL
